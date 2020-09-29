@@ -1,0 +1,7 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "draggableScrollBar",
+  "id": "5c121e2c-a6ea-47c5-a24f-5ecaded57cdf",
+  "version": "2.1.2"
+}
